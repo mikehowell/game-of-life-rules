@@ -1,0 +1,6 @@
+C:\Users\mike.howell\source\my_repos\game-of-life-rules\solution\GameOfLife\GoL\bin\Debug\GoL.exe.config
+C:\Users\mike.howell\source\my_repos\game-of-life-rules\solution\GameOfLife\GoL\bin\Debug\GoL.exe
+C:\Users\mike.howell\source\my_repos\game-of-life-rules\solution\GameOfLife\GoL\bin\Debug\GoL.pdb
+C:\Users\mike.howell\source\my_repos\game-of-life-rules\solution\GameOfLife\GoL\obj\Debug\GoL.csprojAssemblyReference.cache
+C:\Users\mike.howell\source\my_repos\game-of-life-rules\solution\GameOfLife\GoL\obj\Debug\GoL.exe
+C:\Users\mike.howell\source\my_repos\game-of-life-rules\solution\GameOfLife\GoL\obj\Debug\GoL.pdb
